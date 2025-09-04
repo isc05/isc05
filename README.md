@@ -25,7 +25,7 @@ I'm a passionate **Student of Engineering in Computational Systems** who loves b
 
 ## 🎮 Favorite Projects
 
-- [TAKAX](https://github.com/isc05/TAKAX): Fun and interactive JS mini games!
+- [TAKAX](https://github.com/isc05/TAKAX): !
 - [Kobol](https://github.com/isc05/Kobol): School project showcasing my coding journey
 - [OptiWash](https://github.com/isc05/OptiWash): Practical solutions in action
 
